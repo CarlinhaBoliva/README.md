@@ -10,4 +10,4 @@ Passionate about solving complex problems 🧠, I leverage analytics, technology
     <a href="https://www.linkedin.com/in/carla-marisa-barata-7b269323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cmboliva[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  </div>
+  </div
